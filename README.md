@@ -28,7 +28,7 @@ I am an aspiring professional deeply passionate about the dynamic intersection o
 
 ### 📊 Stats
 
-![Abilan's GitHub stats]([https://github-readme-stats.vercel.app/api?username=abilanravi&show_icons=true&theme=gruvbox])
+![Abilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abilanravi&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=abilanravi&theme=gruvbox&border_radius=4.5) -->
 
