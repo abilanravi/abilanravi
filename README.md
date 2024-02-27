@@ -1,4 +1,5 @@
 #  Abilan Ravindran 👋
+<img align="right" alt="VisitorCount" width="100px" style="padding-left:10px;" src="https://komarev.com/ghpvc/?username=abilanravi" />
 
 **`Cloud Practioner (Freelance Developer as well)`**
 
